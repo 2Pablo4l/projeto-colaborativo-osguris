@@ -1,2 +1,2 @@
 # projeto-colaborativo-osguris
-“Aprendendo permissões no GitHub” uwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuuwuvvvv
+“Aprendendo permissões no GitHub”
